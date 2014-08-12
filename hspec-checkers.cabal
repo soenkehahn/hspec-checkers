@@ -2,8 +2,8 @@ name:                hspec-checkers
 version:             0.1.0.0
 synopsis:            Allows to use checkers properties from hspec
 description:
-  Allows to use checkers properties from hspec.
-  http://hackage.haskell.org/package/checkers
+  Allows to use <http://hackage.haskell.org/package/checkers checkers>
+  properties from <http://hackage.haskell.org/package/hspec hspec>.
 license:             BSD3
 license-file:        LICENSE
 author:              Sönke Hahn
