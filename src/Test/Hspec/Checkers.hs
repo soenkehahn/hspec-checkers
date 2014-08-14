@@ -4,8 +4,9 @@
 -- <http://hackage.haskell.org/package/checkers checkers> and
 -- <http://hackage.haskell.org/package/hspec hspec>. It makes it easy to
 -- integrate tests for class laws provided by checkers into test suites written
--- with hspec. Here's an example testing that 'Maybe' satisfies the 'Monad'
--- laws:
+-- with hspec.
+--
+-- Here's an example testing that lists satisfy the 'Monoid' laws:
 --
 -- @
 --import Test.Hspec -- 'Test.Hspec'

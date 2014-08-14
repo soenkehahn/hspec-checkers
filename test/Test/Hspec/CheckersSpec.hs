@@ -11,5 +11,5 @@ import Test.Hspec.Checkers
 spec :: Spec
 spec = do
   describe "testBatch" $ do
-    it "allows to test the monoid laws for [Int]" $ do
+    it "allows to test the monoid laws for lists ([])" $ do
       hspec $ testBatch (monoid (undefined :: [Int]))
