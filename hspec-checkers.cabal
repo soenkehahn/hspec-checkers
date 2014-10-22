@@ -12,6 +12,9 @@ copyright:           Zalora South East Asia Pte Ltd
 category:            Testing
 build-type:          Simple
 cabal-version:       >=1.10
+extra-source-files:
+  README.md
+  default.nix
 
 source-repository head
   type: git
