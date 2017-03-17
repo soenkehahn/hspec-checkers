@@ -1,5 +1,5 @@
 name:                hspec-checkers
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Allows to use checkers properties from hspec
 description:
   Allows to use <http://hackage.haskell.org/package/checkers checkers>
